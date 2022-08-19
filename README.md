@@ -6,7 +6,7 @@ Useful for running snapcast server on Hifiberry OS or any other armv7 architectu
 ### Build
 To build the docker image from the raspberry Pi 3/4
 ```
-docker build . -t ssalaues:snapcast
+docker build -t jbaesner/snapcast .
 ```
 
 ### Pull
